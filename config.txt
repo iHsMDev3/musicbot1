@@ -1,4 +1,4 @@
-token=NTM3NTIxNzk1NTk5Njk1ODc3.Dz35Mg.otWMyEuxDsC0Ek3k52i0tgHTFB0
-owner=530972822722445312
-prefix=2
-game=Tornado Network || 2play
+token=NTM3NDk0NjgwNTk0Njc3Nzgx.XKh_8g.XGUbahphnwuPi6OcjqMbrGTMTPA
+owner=456263449295585281
+prefix=1
+game=Ⱡ, How Load , 1play
